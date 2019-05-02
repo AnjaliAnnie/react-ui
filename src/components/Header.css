@@ -1,0 +1,16 @@
+/* doesnt work */
+.header{
+    background-color:#000000;
+    color:#ffffff;
+}
+.appbar{
+    background-color:#000000!important;
+}
+.badge-color{
+    color:red;
+    border-bottom:1px solid white;
+    border-right:1px solid white;
+}
+.icon-color{
+    color:green;
+}
